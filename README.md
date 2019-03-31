@@ -1,2 +1,0 @@
-# GridCSSLayout
-Created with CodeSandbox
